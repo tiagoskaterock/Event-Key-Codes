@@ -1,5 +1,5 @@
 # Event Key Codes
 
-![Image](1.png)
+![Image](1.gif)
 
 
